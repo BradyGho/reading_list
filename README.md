@@ -2,5 +2,5 @@
  # Brady's reading list (Jan 2025–June 2025)
 
 Currently reading
-- One World or None (Chapter 7)
+- One World or None (Chapter 7) 
 - Ender's Game (Chapter 0)
