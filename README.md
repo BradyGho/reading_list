@@ -5,3 +5,4 @@ Currently reading
 - One World or None (Chapter 7) 
 - Ender's Game (Chapter 0)
 - The Hero with A Thousand Faces (Chapter 0)
+- The Coming Wave (Chapter 0)
